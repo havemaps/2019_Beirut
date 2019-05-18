@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Beirut, Lebanon: 3-5 May 2019</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Caramel Boutique Hotel</name>
+        <description><![CDATA[I stayed at the <a href="http://www.caramelboutiquehotel.com/">Caramel Boutique Hotel</a> in Hamra. The employees here are helpful and friendly! My room was spacious and comfortable. Even though the hotel is in a central area near several bars, I thought the room was quiet. Attached to the hotel is the amazing Propaganda Gin Bar.<br><img src="https://github.com/havemaps/2019_Beirut/blob/master/images/Propaganda.jpg?raw=true" alt="Image of a bar with a large mirror behind it and many bottles">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4825344,33.8957682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T-Marbouta</name>
+        <description>A group went to T-Marbouta after the conference reception. It was a great environment with nice Lebanese mezze. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4830481,33.8957557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American University of Beirut</name>
+        <description><![CDATA[The event I attended was held at the American University Beirut. The class I took is where I learned more about working with Leaflet and was inspired to make these maps! AUB's Campus is beautiful, set on the side of the hill overlooking the Mediterranean. There was fantastic flora and so many cats.<br><img src="https://github.com/havemaps/2019_Beirut/blob/master/images/AUB.jpg?raw=true" alt="Image taken from a lookout point on American University of Beirut's campus overlooking lower campus and the Mediterranean">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.480744,33.9008359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dwell</name>
+        <description>Dwell is a cool coffee shop on campus that promotes zero-waste principles and methods. I really enjoyed the coffee, salads, and outdoor seating area.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4828938000001,33.9010385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orient Institut Beirut</name>
+        <description><![CDATA[The event had a reception at the <a href="https://www.orient-institut.org/">Orient-Institut Beirut</a>. After a presentation in the library, wine and hors d'oeuvres were served in the garden.<br><img src="https://github.com/havemaps/2019_Beirut/blob/master/images/OIB.jpg?raw=true" alt="Image of stained glass windows and Arabic majlis style couches inside the Orient Institut Beirut">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4977608,33.8940406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barbar</name>
+        <description>Barbar is a popular street food place, and I went for falafel a couple times. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4832479,33.8942766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bedivere Eatery and Tavern</name>
+        <description><![CDATA[The first night several people went to Bedivere, a bar in Hamra. Hamra is known for its bars, and all of the ones I visited, including Bedivere, had great ambience.<br><img src="https://github.com/havemaps/2019_Beirut/blob/master/images/bedivere.jpg?raw=true" alt="Image of a transparent box with a picture of a cat taped to it that says Donations for street cats">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.481235,33.896688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferdinand</name>
+        <description>Ferdinand is a classy cocktail bar in Hamra. Their drink list is impressive, and all the cocktails are well crafted. Good food is served, too!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4781712,33.8965152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pool D'état]]></name>
+        <description><![CDATA[Pool d'etat is a rooftop bar with a pool! Unfortunately, I did not bring my swimsuit with me when I went. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.4863498,33.8958565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
